@@ -80,15 +80,3 @@ Pastikan Anda mengeksekusi skema SQL yang ada di dalam `supabase/migrations/2026
 npm run dev
 ```
 Buka [http://localhost:3000](http://localhost:3000) pada browser Anda.
-
----
-
-## Skrip Migrasi Data (Khusus Pengguna Lama)
-Bagi sekolah yang bertransisi dari versi Laravel/MySQL yang lawas, kami telah menyertakan folder `scripts/`.
-Alat migrasi Node.js ini akan membantu menstandarisasi ribuan data siswa/keuangan Anda dalam hitungan detik. 
-> Baca panduan lengkapnya di [scripts/README.md](./scripts/README.md).
-
----
-
-## Kontributor
-Sistem ini dirancang dan direkayasa khusus dengan penuh dedikasi untuk **PAUD Insani** di bawah naungan kolaborasi AI dan pengembang.
