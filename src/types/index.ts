@@ -1,0 +1,1 @@
+// Application TypeScript types will be placed here
