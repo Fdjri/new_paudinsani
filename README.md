@@ -67,9 +67,9 @@ npm install
 ### 3. Konfigurasi Variabel Lingkungan
 Buat file bernama `.env.local` di _root directory_ proyek Anda. Isi dengan kredensial Supabase Anda:
 ```env
-NEXT_PUBLIC_SUPABASE_URL=https://<your-project-id>.supabase.co
-NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5...
-SUPABASE_SERVICE_ROLE_KEY=eyJhbGciOiJIUzI1NiIsInR5... # (Hanya untuk skrip migrasi data)
+NEXT_PUBLIC_SUPABASE_URL=https://[YOUR_SUPABASE_PROJECT_ID].supabase.co
+NEXT_PUBLIC_SUPABASE_ANON_KEY=[YOUR_SUPABASE_ANON_KEY]
+SUPABASE_SERVICE_ROLE_KEY=[YOUR_SUPABASE_SERVICE_ROLE_KEY] # (Hanya untuk skrip migrasi data)
 ```
 
 ### 4. Setup Database
