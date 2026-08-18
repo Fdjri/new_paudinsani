@@ -55,7 +55,7 @@ Jika Anda adalah developer yang ingin menjalankan proyek ini secara lokal, ikuti
 
 ### 1. Kloning Repositori
 ```bash
-git clone <url-repo-anda>
+git clone https://github.com/Fdjri/new_paudinsani
 cd paud_insani
 ```
 
